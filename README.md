@@ -6,15 +6,15 @@ It e involves analyzing historical sales data to unveil intricate temporal patte
 
 ## Prerequisites
 
-Make sure you have Python installed on your system. If not, you can download it from [Python's official website](https://www.python.org/).
+- Make sure you have Python installed on your system. If not, you can download it from [Python's official website](https://www.python.org/).
 
-Dataset : [Link](https://www.kaggle.com/code/rohanchopade/walmart-pbl/input)
+- Dataset : [Link](https://www.kaggle.com/code/rohanchopade/walmart-pbl/input)
 
 Overview of files :
-
 The repository consist of 2 ipynb files:
     a) EDA.ipynb
     b) Time-Series.ipynb
+It also contains PowerBi dashboard file, Project Report and Poster.
 
 ### 1. EDA.ipynb
 a. Merging:

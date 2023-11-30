@@ -57,14 +57,6 @@ Application of the selected FB PROPHET model for making predictions on the time 
 
 
 
-## Authors
-
-- [@BlackReaper0](https://github.com/BlackReaper0)
-- [@mangoresoham](https://github.com/mangoresoham)
-- [@BhaktiAyarekar](https://github.com/BhaktiAyarekar)
-- [@2003-ankita](https://github.com/2003-ankita)
-
-
 ## Getting Started
 These instructions will guide you on how to set up and activate a virtual environment for this project.
 
@@ -86,7 +78,7 @@ These instructions will guide you on how to set up and activate a virtual enviro
     ```
 
 
-## Installation
+### Libraries
 
 You need to install the following libraries inside the environment :
 
@@ -113,3 +105,11 @@ Once the virtual environment is activated and Jupyter is installed, run:
 jupyter notebook
 ```
 Inside the jupyter notebook locate and run .ipynb files.
+
+
+## Authors
+
+- [@BlackReaper0](https://github.com/BlackReaper0)
+- [@mangoresoham](https://github.com/mangoresoham)
+- [@BhaktiAyarekar](https://github.com/BhaktiAyarekar)
+- [@2003-ankita](https://github.com/2003-ankita)

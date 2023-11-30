@@ -11,10 +11,10 @@ It e involves analyzing historical sales data to unveil intricate temporal patte
 - Dataset : [Link](https://www.kaggle.com/code/rohanchopade/walmart-pbl/input)
 
 Overview of files :
-The repository consist of 2 ipynb files:
+- The repository consist of 2 ipynb files:
     a) EDA.ipynb
     b) Time-Series.ipynb
-It also contains PowerBi dashboard file, Project Report and Poster.
+- It also contains PowerBi dashboard file, Project Report and Poster.
 
 ### 1. EDA.ipynb
 a. Merging:
